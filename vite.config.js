@@ -7,7 +7,7 @@ export default defineConfig({
   css: {
     postcss: './postcss.config.js',
   },
-  base: '/image_enhancer/',
+  base: './',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
