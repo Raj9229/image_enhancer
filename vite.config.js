@@ -7,5 +7,9 @@ export default defineConfig({
   css: {
     postcss: './postcss.config.js',
   },
-  base: process.env.NODE_ENV === 'production' ? '/image_enhancer/' : '/',
+  base: '/image_enhancer/',
+  build: {
+    outDir: 'dist',
+    assetsDir: 'assets',
+  },
 })
