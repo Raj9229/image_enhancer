@@ -28,6 +28,10 @@ A modern, AI-powered image enhancement application built with React and Tailwind
 ## 🚀 Live Demo
 
 Visit the live application: **[https://raj9229.github.io/image_enhancer/](https://raj9229.github.io/image_enhancer/)**
+## 📥 Download the App
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Raj9229/image_enhancer/raw/refs/heads/main/app-release.apk)
+
 
 ## 📸 Screenshots
 
